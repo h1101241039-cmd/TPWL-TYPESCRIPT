@@ -1,0 +1,27 @@
+{
+  "name": "tpwl-typescript",
+  "version": "1.0.0",
+  "description": "memahami konsep typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h1101241039-cmd/TPWL-TYPESCRIPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/h1101241039-cmd/TPWL-TYPESCRIPT/issues"
+  },
+  "homepage": "https://github.com/h1101241039-cmd/TPWL-TYPESCRIPT#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
