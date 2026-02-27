@@ -1,7 +1,7 @@
 // src/tugas1.ts
 
 // Variabel dengan tipe data yang sesuai
-let nama: string = "Budi";
+let nama: string = "wennoy";
 let umur: number = 19;
 
 // Output

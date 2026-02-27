@@ -9,5 +9,5 @@ function sapaan(input: string | number): string {
 }
 
 // Contoh penggunaan
-console.log(sapaan("Dina"));
+console.log(sapaan("Wenny"));
 console.log(sapaan(21));
